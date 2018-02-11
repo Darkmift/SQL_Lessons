@@ -1,5 +1,8 @@
 <?php
 
+$GLOBALS['caller_page'] = 'Create DB draft';
+//header
+include 'Frame/head.php';
 $con = new mysqli('localhost', 'root', '');
 // Check connection
 if (mysqli_connect_errno()) {

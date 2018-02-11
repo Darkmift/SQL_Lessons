@@ -13,8 +13,8 @@
             }
             ?>
         </title>
+        <link rel="shortcut icon" type="image/png" href="http://pre11.deviantart.net/3944/th/pre/i/2012/122/6/9/cookie_monster_by_neorame-d4yb0b5.png" />
         <meta name = "viewport" content = "width=device-width,initial-scale=1">
-        <link rel = "shortcut icon" type = "image/png" href = "http://pre11.deviantart.net/3944/th/pre/i/2012/122/6/9/cookie_monster_by_neorame-d4yb0b5.png" />
         <!--Latest bootstrap compiled and minified CSS -->
         <link rel = "stylesheet" href = "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" crossorigin = "anonymous">
         <!--Optional bootstrap theme -->
